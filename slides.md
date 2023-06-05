@@ -35,6 +35,9 @@ title: Welcome to Slidev
   </a>
 </div>
 
+---
+
+<Toc columns=2 />
 
 ---
 src: ./pages/背景.md
@@ -47,4 +50,7 @@ src: ./pages/组件名.md
 ---
 ---
 src: ./pages/Props.md
+---
+---
+src: ./pages/组件设计模式.md
 ---
